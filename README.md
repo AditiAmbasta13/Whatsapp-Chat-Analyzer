@@ -4,11 +4,11 @@ This project is a WhatsApp chat analyzer built using Python and Streamlit. It le
 
 Key Features:
 
-Analyze message frequency over time. \n
-Identify top contributors to the chat. \n
-Visualize word clouds and sentiment analysis. \n
-Explore popular emojis and media sharing patterns. \n
-This project aims to provide users with a deeper understanding of their WhatsApp conversations through data-driven insights.
+- Analyze message frequency over time.
+- Identify top contributors to the chat.
+- Visualize word clouds and sentiment analysis.
+- Explore popular emojis and media sharing patterns.
+- This project aims to provide users with a deeper understanding of their WhatsApp conversations through data-driven insights.
 
 ![image](https://github.com/AditiAmbasta13/Whatsapp-Chat-Analyzer/assets/161136042/be538795-bacd-4a8e-a7dc-28ba3f35dcf7)
 ![image](https://github.com/AditiAmbasta13/Whatsapp-Chat-Analyzer/assets/161136042/e86c4498-e62a-48ec-823b-d3131272910c)
